@@ -1,7 +1,7 @@
 # rgss
 ## My Collection of RGSS 1 2 3 Scripts
 
-I have published several scripts that may work in the RPG Maker engine series and decided it would be fine to upload some of them to my GitHub account.
+I have published, under my nickname Kyonides Arkanthes, several scripts that may work in the RPG Maker engine series and decided it would be fine to upload some of them to my GitHub account.
 
 ## Categories
 
